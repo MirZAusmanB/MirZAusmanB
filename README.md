@@ -45,11 +45,12 @@
 - **💇 Salon Management API (.NET)** – Complete backend for a booking & management app (USA client)  
   Features authentication, appointment scheduling, reporting, and secure database handling.  
 
-- **📱 ZabFind – Lost & Found App** – Flutter-based app for SZABIST students to report and locate lost items  
+- **📱 UniFind – Lost & Found App** – Flutter-based app for SZABIST students to report and locate lost items  
   Includes secure Firebase authentication, real-time chat, and push notifications.  
 
 - **🎮 Game Vault** – MERN-based game store UI + backend integration with search, categories, and live deployment.  
 
+---
 
 ## 📜 Certifications  
 - **AI For Everyone** – DeepLearning.AI (2025)  
@@ -58,14 +59,6 @@
 - **Introduction to Front-End Development** – Meta (2023)  
 - **Programming with JavaScript** – Meta (2023)  
 - **Version Control** – Meta (2023)  
-
----
-
-## 📅 2025 Roadmap  
-- ✅ Build a professional GitHub profile README  
-- 🔄 Publish 3 new open-source portfolio projects  
-- 📚 Deep dive into **Google Gemini AI integrations**  
-- ☁️ Deploy multi-service applications on AWS & Azure  
 
 ---
 
