@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mirza Usman Baig 👋</h1>
 <p align="center">
-  <b>Full-Stack Developer (MERN • Python • .NET)</b> • Backend Specialist • AI Enthusiast
+  <b>Full-Stack Developer (MERN • Python • .NET)</b> • Backend Specialist • AI Enthusiast • Founder of <a href="https://vazurlabs.framer.website/" target="_blank">VazurLabs</a>
 </p>
 
 ---
@@ -8,6 +8,7 @@
 ## 🚀 About Me  
 - 💻 **Complete Full-Stack Developer** skilled in MERN, Python, and .NET  
 - 🛠 Built and deployed **production-grade applications** for USA-based clients  
+- 🚀 **Founder of [VazurLabs](https://vazurlabs.framer.website/)** – a software development brand delivering modern web & AI-powered solutions  
 - 🤖 Exploring **AI integration** in web & automation projects  
 - 🌱 Experienced in **API development, automation testing, and scalable architectures**  
 - 💬 Ask me about **Backend APIs, Databases, AI integrations, and Cloud Deployment**  
@@ -39,6 +40,17 @@
 ---
 
 ## 🔭 Featured Projects  
+- **🏢 [Vazor Labs](https://vazurlabs.framer.website/)** – My software development brand delivering **MERN, .NET, Python, and AI-powered applications** for clients worldwide.  
+  Providing end-to-end solutions from UI/UX to backend APIs and cloud deployment.  
+  <p>
+    <a href="https://www.linkedin.com/company/vazurlabs" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/vazurlabs" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+
 - **🚚 Shipment Solutions LLC** – [Live Website](https://shipmentsolutionsllc.com/)  
   A premium auto-dealership platform that enables customers to **buy quality vehicles from Japan and ship them worldwide**. Built and deployed a seamless, customer-centric web solution serving a USA-based client.  
 
@@ -64,12 +76,15 @@
 
 ## 🤝 Let’s Connect  
 <p align="center">
-<a href="https://www.linkedin.com/in/mub1007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:usmanbaig305@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/mub1007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:usmanbaig305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://calendar.app.google/zCReVp8UzQizitXC8" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20an%20Appointment-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  </a>
 </p>
 
 ---
