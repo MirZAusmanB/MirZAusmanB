@@ -45,32 +45,33 @@
 - **💇 Salon Management API (.NET)** – Complete backend for a booking & management app (USA client)  
   Features authentication, appointment scheduling, reporting, and secure database handling.  
 
-- **🎮 Game Vault** – MERN-based game store UI + backend integration with search, categories, and live deployment.
+- **📱 ZabFind – Lost & Found App** – Flutter-based app for SZABIST students to report and locate lost items  
+  Includes secure Firebase authentication, real-time chat, and push notifications.  
+
+- **🎮 Game Vault** – MERN-based game store UI + backend integration with search, categories, and live deployment.  
+
+
+## 📜 Certifications  
+- **AI For Everyone** – DeepLearning.AI (2025)  
+- **Google UX Design Professional Certificate** – Coursera (2024)  
+- **HTML and CSS in Depth** – Meta (2023)  
+- **Introduction to Front-End Development** – Meta (2023)  
+- **Programming with JavaScript** – Meta (2023)  
+- **Version Control** – Meta (2023)  
 
 ---
 
-## 📊 GitHub Snapshot  
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=usmanbaig305&show_icons=true&theme=tokyonight">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=usmanbaig305&show_icons=true&theme=tokyonight" height="165"/>
-</a>
-<a href="https://streak-stats.demolab.com?user=usmanbaig305&theme=tokyonight">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=usmanbaig305&theme=tokyonight" height="165"/>
-</a>
-</p>
-
----
-
-## 🏆 Achievements & Trophies  
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=usmanbaig305&theme=tokyonight&no-frame=true&margin-w=5&column=4" />
-</p>
+## 📅 2025 Roadmap  
+- ✅ Build a professional GitHub profile README  
+- 🔄 Publish 3 new open-source portfolio projects  
+- 📚 Deep dive into **Google Gemini AI integrations**  
+- ☁️ Deploy multi-service applications on AWS & Azure  
 
 ---
 
 ## 🤝 Let’s Connect  
 <p align="center">
-<a href="www.linkedin.com/in/mub1007" target="_blank">
+<a href="https://www.linkedin.com/in/mub1007" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:usmanbaig305@gmail.com">
